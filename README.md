@@ -35,6 +35,20 @@ This project serves as:
 
 ---
 
+## 🖼️ Screenshots
+
+Below are UI previews from the **Self Service Dashboard** module:
+
+### 📊 Dashboard  
+<img src="./Images/dashboard.png" alt="Dashboard Screenshot" width="600"/>
+
+### ⚠️ Incident Workspace  
+<img src="./Images/incident.png" alt="Incident Workspace Screenshot" width="600"/>
+
+### 📘 Knowledge Workspace  
+<img src="./Images/knowledge.png" alt="Knowledge Workspace Screenshot" width="600"/>
+
+
 ## 🧾 Contact
 
 If you'd like to collaborate — or you're reviewing this for a dev role — feel free to reach out:
