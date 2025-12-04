@@ -35,13 +35,13 @@ This project serves as:
 
 ---
 
-## 📬 Contact
+## 🧾 Contact
 
 If you'd like to collaborate — or you're reviewing this for a dev role — feel free to reach out:
 
 **JD Mulcahy**  
-email: mr.mulcahy@icloud.com
-GitHub: [mulcahy-git](https://github.com/mulcahy-git)
-LinkedIn: https://www.linkedin.com/in/jdmulcahy/
+📧 Email: [mr.mulcahy@icloud.com](mailto:mr.mulcahy@icloud.com)  
+🐙 GitHub: [mulcahy-git](https://github.com/mulcahy-git)  
+🔗 LinkedIn: [https://www.linkedin.com/in/jdmulcahy/](https://www.linkedin.com/in/jdmulcahy/)
 
 ---
